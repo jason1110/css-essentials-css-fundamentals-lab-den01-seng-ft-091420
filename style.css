@@ -25,7 +25,8 @@ figcaption {
 }
 
 #featured-property p {
-  margin: center;
+  margin: auto;
+  text-align: center;
   width: 800px;
 }
 
