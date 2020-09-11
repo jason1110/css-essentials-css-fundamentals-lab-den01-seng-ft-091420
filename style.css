@@ -3,6 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
+* {text-align: center;}
 
 h1 { 
   text-align: center;
@@ -21,5 +22,6 @@ figure {
   text-align: center;
 }
 figcaption {
-  font-size: 
+  font-size: 75%;
 }
+
