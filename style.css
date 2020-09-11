@@ -25,3 +25,11 @@ figcaption {
   font-size: 75%;
 }
 
+#featured_propety p {
+  width: 800px;
+  text-align: center;
+}
+
+#details {
+  
+}
