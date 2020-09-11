@@ -25,6 +25,9 @@ figcaption {
   font-size: 75%;
 }
 
+#featured-property p {
+  width: 10px;
+}
 
 
 #details div {
