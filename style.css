@@ -34,5 +34,5 @@ figcaption {
   display: block;
   background: red;
   float: left;
-  padding: 25%;
+  width: 25%;
 }
